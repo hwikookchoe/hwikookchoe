@@ -13,3 +13,4 @@ def f(n, k):
 
 N, K = map(int, input().split())
 print(f(N, K))
+
