@@ -4,7 +4,7 @@
 - Language 1: Korean(Native), English(Fluent)
 - Language 2: Python(Advanced), SQL(Basic), C(Basic)
 - I’m interested in Industrial organization/ Quantitative marketing/ Structural estimation/ Causal inference
-- I’m currently learning Machine Learning
+- I’m currently learning dynamic discrete choice model with unobserved heterogeneity
 - hkchoe@uchicago.edu
 
 <!---
