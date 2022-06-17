@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/1697
+
 def f(n, k):
     if n >= k:
         return n - k
