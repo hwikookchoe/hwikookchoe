@@ -12,5 +12,5 @@ for _ in [0]*int(I()):
         R[a][1] += q
         R[b][0] += q
         R[b][1] += p
-    R = [0 if s**2+a**2 == 0 else int((s**2)*1000/(s**2+a**2)) for s, a in R[1:]]
+    R = [0 if s**2+a**2 == 0 else (s**2)*1000//(s**2+a**2) for s, a in R[1:]]
     sys.stdout.write(f'{max(R)}\n{min(R)}\n')
