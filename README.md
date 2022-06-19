@@ -15,7 +15,7 @@
 - Korean(Native), English(Fluent)
 - Python(Advanced), SQL(Basic), C(Basic)
 
-Hobby
+# Hobby
 - Problem solving coding ([BOJ](https://solved.ac/profile/naracar12), Google Code Jam)
 - Bike
 
