@@ -17,7 +17,7 @@
 
 # Language
 - Korean(Native), English(Fluent)
-- Python(Advanced), SQL(Basic), C(Basic)
+- Python(Advanced), SQL(Intermediate), R(Basic)
 
 # Hobby
 - Problem solving coding ([BOJ](https://solved.ac/profile/naracar12), Google Code Jam)
