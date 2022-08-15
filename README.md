@@ -21,6 +21,7 @@
 
 # Hobby
 - Problem solving coding ([BOJ](https://solved.ac/profile/naracar12), Google Code Jam)
+- [Kaggle](https://www.kaggle.com/hwikookchoe)
 - Bike
 
 <!---
