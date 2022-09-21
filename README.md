@@ -13,7 +13,7 @@
 - Causal inference
 
 # Research
-- Dynamic discrete choice model with unobserved heterogeneity
+- [Understanding Forward-Looking Behavior using Dynamic Discrete Choice and Rational Addiction Model: Application to California Cigarette Tax Increase](https://github.com/hwikookchoe/hwikookchoe/blob/main/Hwikook%20Choe_JMP.pdf)
 
 # Language
 - Korean(Native), English(Fluent)
