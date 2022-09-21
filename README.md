@@ -4,6 +4,7 @@
 
 # Education
 - B.A. in Economics and Mathematics (Double major), Korea University (2010 - 2016)
+- M.A. in Economics, University of Chicago (2017 - 2023)
 - Ph.D. Candidate in Economics (ABD), University of Chicago (2017 - 2023)
 
 # Field of Interest
