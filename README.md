@@ -2,6 +2,10 @@
 - Hwikook Choe, @hwikookchoe
 - hkchoe@uchicago.edu
 
+# Education
+- B.A. in Economics and Mathematics (Double major), Korea University (2010 - 2016)
+- Ph.D. Candidate in Economics, University of Chicago (2017 - 2023)
+
 # Field of Interest
 - Industrial organization
 - Quantitative marketing
@@ -9,14 +13,15 @@
 - Causal inference
 
 # Research
-- Dynamic discrete choice model with unobserved heterogeneity
+- [Understanding Forward-Looking Behavior using Dynamic Discrete Choice and Rational Addiction Model: Application to California Cigarette Tax Increase](https://github.com/hwikookchoe/hwikookchoe/blob/main/Hwikook%20Choe_JMP.pdf)
 
 # Language
 - Korean(Native), English(Fluent)
-- Python(Advanced), SQL(Basic), C(Basic)
+- Python(Advanced), SQL(Intermediate), R(Basic)
 
 # Hobby
 - Problem solving coding ([BOJ](https://solved.ac/profile/naracar12), Google Code Jam)
+- [Kaggle](https://www.kaggle.com/hwikookchoe)
 - Bike
 
 <!---
