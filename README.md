@@ -16,9 +16,14 @@
 # Research
 - [Understanding Forward-Looking Behavior using Dynamic Discrete Choice and Rational Addiction Model: Application to California Cigarette Tax Increase](https://github.com/hwikookchoe/hwikookchoe/blob/main/Hwikook%20Choe_JMP.pdf)
 
+# Skills
+- Python(Advanced)
+    - numpy, pandas, scikit-learn, statsmodels, tensorflow
+    - able to create custom packages
+- SQL(Intermediate)
+
 # Language
 - Korean(Native), English(Fluent)
-- Python(Advanced), SQL(Intermediate), R(Basic)
 
 # Hobby
 - Problem solving coding ([BOJ](https://solved.ac/profile/naracar12), Google Code Jam)
