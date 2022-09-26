@@ -18,7 +18,9 @@
 
 # Skills
 - Python(Advanced)
-    - numpy, pandas, scikit-learn, statsmodels, tensorflow
+    - numpy, pandas, scikit-learn, statsmodels
+    - Tensorflow, numba
+    - matplotlib, seaborn
     - able to create custom packages
 - SQL(Intermediate)
 
