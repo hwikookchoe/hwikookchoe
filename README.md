@@ -1,6 +1,7 @@
 # Contact
 - Hwikook Choe, @hwikookchoe
 - hkchoe@uchicago.edu
+- CV [PDF version](https://github.com/hwikookchoe/hwikookchoe/blob/main/CV_Hwikook_Choe.pdf)
 
 # Education
 - Ph.D. Candidate in Economics (ABD), University of Chicago (2017 - 2023)
