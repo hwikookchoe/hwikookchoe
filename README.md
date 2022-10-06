@@ -1,7 +1,7 @@
 # Contact
 - Hwikook Choe, @hwikookchoe
 - hkchoe@uchicago.edu
-- [Linkedin](https://www.linkedin.com/in/hwikook-choe-0b0551240/)
+- [https://www.linkedin.com/in/hwikook-choe-0b0551240/](https://www.linkedin.com/in/hwikook-choe-0b0551240/)
 - CV [PDF version](https://github.com/hwikookchoe/hwikookchoe/blob/main/CV_Hwikook_Choe.pdf)
 
 # Education
