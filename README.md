@@ -19,6 +19,8 @@
 - [Understanding Forward-Looking Behavior using Dynamic Discrete Choice and Rational Addiction Model: Application to California Cigarette Tax Increase](https://github.com/hwikookchoe/hwikookchoe/blob/main/Hwikook%20Choe_JMP.pdf)
 
     Consumer's forward-looking behavior can create change in current purchase and consumption in response to the change in expectation on future price. Using cigarette tax increase in California as exogenous variation, I found peak in purchase right before the actual price increase and plunge after the increase. Using dynamic discrete choice model with rational addiction and stockpiling, I found that change in the timing of tax increase announcement can incur change in consumer's steady state of consumption in the long run.
+    
+    [Code](https://colab.research.google.com/drive/1BdS2_lvkiXCu4WoXpE-Sh_JTk2ndtdOn?usp=sharing)
 
 
 - [Competition between First-party and Third-party Sellers on Online Platforms](https://github.com/hwikookchoe/hwikookchoe/blob/main/Project_DD.pdf)
