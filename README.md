@@ -5,8 +5,8 @@
 - CV [PDF version](https://github.com/hwikookchoe/hwikookchoe/blob/main/CV_Hwikook_Choe.pdf)
 
 # Education
-- Ph.D. Candidate in Economics (ABD), University of Chicago (2017 - 2023)
-- M.A. in Economics, University of Chicago (2017 - 2023)
+- Ph.D. Candidate in Economics (ABD), University of Chicago (2017 - Present)
+- M.A. in Economics, University of Chicago
 - B.A. in Economics and Mathematics (Double major), Korea University (2010 - 2016)
 
 # Field of Interest
