@@ -7,7 +7,7 @@
 # Education
 - Ph.D. Candidate in Economics (ABD), University of Chicago (2017 - Present)
 - M.A. in Economics, University of Chicago
-- B.A. in Economics and Mathematics (Double major), Korea University (2010 - 2016)
+- B.A. in Economics and B.S. in Mathematics (Double major), Korea University (2010 - 2016)
 
 # Field of Interest
 - Industrial organization
