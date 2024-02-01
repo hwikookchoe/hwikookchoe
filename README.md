@@ -22,10 +22,12 @@
     
 <!--- [Code](https://colab.research.google.com/drive/1BdS2_lvkiXCu4WoXpE-Sh_JTk2ndtdOn?usp=sharing) --->
 
-
 - [Competition between First-party and Third-party Sellers on Online Platforms](https://github.com/hwikookchoe/hwikookchoe/blob/main/Project_DD.pdf)
 
     Online platforms are two-sided markets which match two different sides of agents: buyers and sellers and earn profits by matching them. However, recent platforms sell their own goods or services that directly competes with the sellers on the platform. Whether increasing profit by selling first-party products and competing with third-party sellers on the platform is questionable. By using online bookstore data, I investigate the consumers choice on first-party and third-party sellers.
+
+- Quantity Surchare (with Jean-Pierre Dube, Joonhwi Joo, and Giovanni Compiani)
+
 
 # Codes
 - [Random coefficient logit model with repeated choices](https://github.com/hwikookchoe/hwikookchoe/blob/main/EconometricMethods/Random_coefficient_Model.ipynb)
