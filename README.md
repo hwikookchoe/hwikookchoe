@@ -26,7 +26,7 @@
 
     Online platforms are two-sided markets which match two different sides of agents: buyers and sellers and earn profits by matching them. However, recent platforms sell their own goods or services that directly competes with the sellers on the platform. Whether increasing profit by selling first-party products and competing with third-party sellers on the platform is questionable. By using online bookstore data, I investigate the consumers choice on first-party and third-party sellers.
 
-- Quantity Surchare (with Jean-Pierre Dube, Joonhwi Joo, and Giovanni Compiani)
+- Quantity Surcharge (with Jean-Pierre Dube, Joonhwi Joo, and Giovanni Compiani)
 
 
 # Codes
