@@ -1,12 +1,14 @@
 # Contact
 - Hwikook Choe, @hwikookchoe
-- hkchoe@uchicago.edu
-- [https://www.linkedin.com/in/hwikook-choe-0b0551240/](https://www.linkedin.com/in/hwikook-choe-0b0551240/)
+- hwikookchoe12@gmail.com
+- [https://www.linkedin.com/in/hwikook-choe/](https://www.linkedin.com/in/hwikook-choe/)
 - CV [PDF version](https://github.com/hwikookchoe/hwikookchoe/blob/main/CV_Hwikook_Choe.pdf)
 
+# Professional Experience
+- Professional, Credit Data Science Team, Samsung Card (2024 - Present)
+
 # Education
-- Ph.D. Candidate in Economics (ABD), University of Chicago (2017 - Present)
-- M.A. in Economics, University of Chicago
+- Ph.D. Candidate in Economics, University of Chicago (2017 - 2024)
 - B.A. in Economics and B.S. in Mathematics (Double major), Korea University (2010 - 2016)
 
 # Field of Interest
