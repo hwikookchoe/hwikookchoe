@@ -8,7 +8,7 @@
 - Professional, Credit Data Science Team, Samsung Card (2024 - Present)
 
 # Education
-- Ph.D. Candidate in Economics, University of Chicago (2017 - 2024)
+- Ph.D. in Econometrics, University of Chicago (2017 - 2024)
 - B.A. in Economics and B.S. in Mathematics (Double major), Korea University (2010 - 2016)
 
 # Field of Interest
